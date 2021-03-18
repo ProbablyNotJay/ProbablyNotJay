@@ -13,7 +13,7 @@ I'm Jay, a MSc. Advanced Computer Science student at the University of Birmingha
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- links to my social media accounts -->
-[1]: linkedin.com/in/jay-p-upadhyay
+[1]: https://linkedin.com/in/jay-p-upadhyay
 
 <!---
 ProbablyNotJay/ProbablyNotJay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
